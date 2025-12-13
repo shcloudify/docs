@@ -22,10 +22,10 @@
             ]
           },
           {
-            "group": "Installation",
+            "group": "Getting started",
             "pages": [
               "installation/introduction",
-              "installation/prerequisite"
+              "installation/prerequisites"
             ]
           },
           {
