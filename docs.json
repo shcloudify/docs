@@ -24,8 +24,8 @@
           {
             "group": "Getting started",
             "pages": [
-              "installation/introduction",
-              "installation/prerequisites"
+              "getting-started/introduction",
+              "getting-started/prerequisites"
             ]
           },
           {
