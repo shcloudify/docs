@@ -16,14 +16,6 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Getting started",
-            "pages": [
               "getting-started/introduction",
               "getting-started/prerequisites"
             ]
