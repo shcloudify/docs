@@ -26,7 +26,9 @@
               "installation/invoice-sync-rules",
               "installation/subscription-plan",
               "installation/customer-search-rules",
-              "installation/product-rules"
+              "installation/product-rules",
+              "installation/connect-e-conomic",
+              "installation/one-click-invoices"
             ]
           },
           {
