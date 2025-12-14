@@ -1,0 +1,44 @@
+---
+title: "Product Rules"
+description: "Product Sync Rules define how products from HubSpot are matched with those in e-conomic, enabling a simple field-based matching or a direct connection without searching to ensure accurate product syncing and invoicing."
+---
+
+**Simple Search**
+
+This feature is used to match products between HubSpot and e-conomic by correlating a specific field, such as SKU or product number. It's particularly useful for users who have long product lists. Choose the corresponding field in HubSpot and e-conomic for automatic identification from the respective dropdowns.
+
+<Frame>
+  <img
+    src="/example-image.avif"
+    alt="Screenshot of a deployment confirmation message that says All checks have passed."
+    style={{ borderRadius:"0.5rem" }}
+    title=""
+  />
+</Frame>
+
+**Direct Link**
+
+You can connect products directly without searching. This option is useful for users who have short product lists. Map the Hubspot fields with the e-conomic fields and click **"Save Mappings".**
+
+<Frame>
+  <img
+    src="/example-image.avif"
+    alt="Screenshot of a deployment confirmation message that says All checks have passed."
+    style={{ borderRadius:"0.5rem" }}
+    title=""
+  />
+</Frame>
+
+### **Advance Settings**
+
+This option is useful when a product is not found in the search. It offers three options, which are:
+
+**Skip Invoice Generation:** Select this option if you prefer not to create an invoice when a product isn't found in e-conomic.
+
+**Use a Default Product: **When a product is not found in the e-conomic, it will use a default product from the e-conomic for generating the invoice. If you select this option, you must specify a default product from your e-conomic product list.
+
+**Create a new product in e-conomic**: This option is for automatically generating a new product entry in e-conomic when a matching item isn't found, using product details from HubSpot. You must specify the product group to ensure the new product aligns with the correct category in e-conomic. Select the product group and click "**Finish**".
+
+### **Sync deals which do not have products associated with them**
+
+This option is applicable when there are no products in a deal, and the user wants to sync the deal. You can check this option. Select the product and click "**Finish**".

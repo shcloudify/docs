@@ -24,7 +24,8 @@
             "group": "Installation",
             "pages": [
               "installation/invoice-sync-rules",
-              "installation/subscription-plan"
+              "installation/subscription-plan",
+              "installation/customer-search-rules"
             ]
           },
           {
