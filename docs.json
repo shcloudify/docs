@@ -29,6 +29,13 @@
             ]
           },
           {
+            "group": "Installation",
+            "pages": [
+              "installation/invoice-sync-rules",
+              "installation/subscription-plan"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
